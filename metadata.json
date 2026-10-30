@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Cumplimiento Dispersor SPEI",
+  "description": "Laboratorio de Cumplimiento para Dispersores SPEI en Modo Producción con Datos Sintéticos. Segregación de 3 roles, validación de tope DIMO 1,500 UDIS, screening PLD y auditoría CNBV Art 115.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
